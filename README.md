@@ -20,7 +20,7 @@
 RealtyAI is a production-ready machine learning application that combines computer vision, time series forecasting, and gradient boosting to deliver comprehensive property analysis [file:2]. The system provides:
 
 - **U-Net Segmentation** for residential vs. commercial property classification from satellite/aerial imagery
-- **LSTM Forecasting** for multi-year property price predictions
+- **Prophet Forecasting** for multi-year property price predictions
 - **XGBoost Regression** for accurate property valuation based on 50+ features
 - **Automated PDF Reports** with visualizations and detailed analytics
 
@@ -32,7 +32,7 @@ RealtyAI is a production-ready machine learning application that combines comput
 - Real-time image preprocessing and mask generation
 - Supports PNG, JPG, JPEG formats [file:2]
 
-### 📈 LSTM Time Series Forecasting
+### 📈 Prophet Time Series Forecasting
 - Multi-year price forecasting (1-20 years)
 - Excel/CSV data input support
 - Automatic data normalization and sequence generation
